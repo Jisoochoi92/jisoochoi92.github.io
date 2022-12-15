@@ -1,11 +1,11 @@
-name: "John Appleseed"
-title: "John Appleseed"
-pagetitle: "John Appleseed"
-base_url: https://glavine1.github.io/
+name: "Jisoo Choi"
+title: "Jisoo Choi"
+pagetitle: "Jisoo Choi"
+base_url: https://jisoochoi92.github.io/
 google_analytics: "" # e.g. "UA-XXXXXXXXX-1", GA tracking code
 output_dir: "."
 navbar:
-  title: "John Appleseed"
+  title: "Jisoo Choi"
   left:
     - text: "Tutorials"
       href: tutorials.html
