@@ -21,6 +21,8 @@ navbar:
       menu: 
       - text: "Squid Game Elimination Analysis"
         href: visualization1.html
+      - text: "Squid Game Elimination Analysis 2"
+        href: visualization2.html
   right:
     - icon: fas fa-envelope
       href: contact.html
