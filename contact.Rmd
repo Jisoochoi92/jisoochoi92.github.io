@@ -13,7 +13,7 @@ output: html_document
 <br><br><br><br><br><br>
 
 #### **Jisoo Choi**
-##### M.S. Candidate in Business Analytics | Arizona State University <img src="images/college_logo.jpeg" style="width:35%;" align="right">
+##### M.S. Candidate in Business Analytics | Arizona State University <img src="images/college_logo.png" style="width:35%;" align="right">
 
 📍 Phoenix <br>
 📱 (602) 883 - 6809 <br>
