@@ -15,31 +15,24 @@ output: html_document
 
 🚨*THIS IS A FICTIONAL PROFILE MEANT AS AN EXAMPLE FOR THE STEPBYSTAT COMMUNITY.* 
 <br><br><br>
-👋🏽 Hello, my name is John Appleseed.
+👋🏽 Hello, my name is Jisoo Choi.
 
-🎓 Soon to be grad with a M.S. in Data Science at ABC University. (May 2022)
+🎓 Soon to be grad with a M.S. in Business Analytics at Arizona State University. (May 2023)
 
-🌇 New York City Native, with a passion for developing and applying mathematical and statistical models to hands-on strategies that will grow business.
+🌇 Born in Seoul, South Korea, with a passion for developing and applying financial and statistical models to hands-on strategies that will grow business.
 
-📚 **Talk about your past experience, your present experience, and what you did (about 4-5 sentences)**
+📚 I worked as Financial Planning Analyst at Merck Korea for past 5 years.
+I was in charge of forecasting sales and budgeting operation expense.
 
-...
+💻 I would like to continue my career as business analyst or data analyst after graduation.
 
-💻 **Talk about what you want to do in the future (2 sentences)**
+🏔 In my free time, you can find me skiing, doing yoga and playing badminton.
 
-e.g. 💻 As for my future, I hope to one day work as a data analyst/scientist/engineer role and work with a marketing team.
-
-🏔 **Talk about hobbies(1 sentence)**
-
-e.g. 🏔In my free time, you can find me rock climbing.
-
-💪 **Highlight your strengths, use keywords (5-6)**
-
-e.g. 💪 Specialties in analyzing customer-driven data from e-commerce and applying insights to actionable strategies
+💪 Specialties in analyzing sales trend, expense optimization, data visualization, strategic financial reporting
 
 + Programming: Python, R
 + Data visualization: Tableau Software, Power BI
 + Database: SQL, Postgre SQL, MongoDB, Neo4j
 + Cloud Computing: AWS, GCP (BigQuery), Azure
 
-Please find my resume [HERE](files/Jisoo_Choi_resume.pdf)
+💼 Please find my resume [HERE](files/Jisoo_Choi_resume.pdf)
