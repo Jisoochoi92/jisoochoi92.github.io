@@ -1,7 +1,7 @@
 
 ---
 title: ""
-author: "John Appleseed"
+author: "Jisoo Choi"
 date: 
 output: html_document
 ---
@@ -12,9 +12,9 @@ output: html_document
 
 <br><br><br><br><br><br>
 
-#### **John Appleseed**
-##### M.S. Candidate in Data Science | ABC University <img src="images/college_logo.png" style="width:35%;" align="right">
+#### **Jisoo Choi**
+##### M.S. Candidate in Business Analytics | Arizona State University <img src="images/college_logo.jpeg" style="width:35%;" align="right">
 
-📍 Seoul <br>
-📱 (123) 456 - 7890 <br>
-✉️ [jappleseed@abc.edu](mailto:jappleseed@abc.edu) <br>
+📍 Phoenix <br>
+📱 (602) 883 - 6809 <br>
+✉️ [jchoi206@asu.edu](mailto:jchoi206@asu.edu) <br>
