@@ -9,7 +9,7 @@ output: html_document
 <br>
 
 <p align="center">
-<img src="images/profile_pic.jpg" style="width:50%; border:0.5px solid; margin-right: 20px" align="center">
+<img src="images/profile_pic.jpg" style="width:25%; border:0.5px solid; margin-right: 20px" align="center">
 </p>
 <br>
 
@@ -41,3 +41,5 @@ e.g. 💪 Specialties in analyzing customer-driven data from e-commerce and appl
 + Data visualization: Tableau Software, Power BI
 + Database: SQL, Postgre SQL, MongoDB, Neo4j
 + Cloud Computing: AWS, GCP (BigQuery), Azure
+
+Please find my resume [HERE](files/Jisoo_Choi_resume.pdf)

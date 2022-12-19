@@ -49,7 +49,7 @@ e.g. Please find my resume [HERE](files/sample_resume.pdf).
 
 **[Output]**
 
-e.g. Please find my resume [HERE](files/sample_resume.pdf).
+e.g. Please find my resume [HERE](files/Jisoo_Choi_resume.pdf).
 
 <br>
 
