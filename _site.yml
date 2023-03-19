@@ -9,19 +9,19 @@ navbar:
   left:
     - text: "Tutorials"
       href: tutorials.html
-    - text: "Stat/ML"
+    - text: "ML1"
       menu: 
       - text: "Sentiment Analysis of Pet retailer"
         href: stat1.html
-    - text: "DB/SQL"
+    - text: "ML2"
       menu: 
-      - text: "Movie Explorer"
+      - text: "Medical Cost prediction"
         href: dbsql1.html
     - text: "Visualization"
       menu: 
-      - text: "Squid Game Elimination Analysis"
+      - text: "Sales Trend Monitoring"
         href: visualization1.html
-      - text: "Squid Game Elimination Analysis 2"
+      - text: "Issue Tracker"
         href: visualization2.html
   right:
     - icon: fas fa-envelope
