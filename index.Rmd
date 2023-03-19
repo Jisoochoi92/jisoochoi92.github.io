@@ -13,7 +13,7 @@ output: html_document
 </p>
 <br>
 
-🚨*THIS IS A FICTIONAL PROFILE MEANT AS AN EXAMPLE FOR THE STEPBYSTAT COMMUNITY.* 
+<!-- 🚨*THIS IS A FICTIONAL PROFILE MEANT AS AN EXAMPLE FOR THE STEPBYSTAT COMMUNITY.*  -->
 <br><br><br>
 👋🏽 Hello, my name is Jisoo Choi.
 

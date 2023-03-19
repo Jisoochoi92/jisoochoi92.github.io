@@ -405,8 +405,8 @@ div.tocify {
 <p><link rel="stylesheet" href="styles.css" type="text/css">
 <link rel="stylesheet" href="site_libs/academicons-1.9.1/css/academicons.min.css"/></p>
 <p><br><br><br></p>
-<div id="sentiment-analysis-of-petsmart" class="section level2">
-<h2><strong>Sentiment Analysis of PetSmart</strong></h2>
+<div id="sentiment-analysis-of-pet-retailer" class="section level2">
+<h2><strong>Sentiment Analysis of Pet retailer</strong></h2>
 <p><img src="https://img.shields.io/badge/Using-RoBERTa-blue" />
 <!-- ![](https://img.shields.io/badge/-LASSO-red) -->
 <!-- ![](https://img.shields.io/badge/-XGBoost-success) --></p>
@@ -418,7 +418,7 @@ at Arizona State University.</strong></p>
 <h3>1. Executive Summary</h3>
 <ul>
 <li>Goal : To create an End-to-End Data Product that will help one
-understand the public sentiment of PetSmart as a brand while
+understand the public sentiment of Pet retailer as a brand while
 understanding what our customers think about other pet retailers.</li>
 <li>Objective : To extract people’s opinions from the Tweets collected
 and classify them into positive, negative, or neutral and identify the
@@ -434,29 +434,28 @@ labeled the tweets to evaluate the model performance.</li>
 <!-- [Fig. LASSO regression features by importance] -->
 <!-- </p> -->
 <p><br></p>
-<p><br><br></p>
 </div>
 <div id="data-pre-processing" class="section level3">
 <h3>2. Data Pre-processing</h3>
-<p>To predict the final price of each home using 79 explanatory
-variables describing (almost) every aspect of residential homes in Ames,
-Iowa.</p>
 <p><br></p>
+<p align="center">
+<img src="images/Data_collection.png" style="width:80%; border:0.0px solid; margin-right: 20px" align="center">
+<img src="images/Data_Preprocessing.png" style="width:80%; border:0.0px solid; margin-right: 20px" align="center">
+</p>
+<p><br> <br></p>
 </div>
 <div id="sentiment-analysis" class="section level3">
 <h3>3. Sentiment Analysis</h3>
 <ul>
-<li>LASSO regressions showed the best performance with a cross
-validation RMSE-score of 0.1121. Although there is a lot of
-multicollinearity among the variables, LASSO regression include feature
-selection; it does not select a substantial number of the available
-variables in its model, as it is supposed to do.</li>
-<li>The XGBoost model also performs very well with a cross validation
-RMSE of 0.1162.</li>
-<li>As those two algorithms are very different, averaging predictions is
-likely to improve the predictions. As the Lasso cross validated RMSE is
-better than XGBoost’s CV score, I decided to weight the Lasso results
-double.</li>
+<li>After analyzing a sample of approximately 6,000 records collected to
+date, we have observed that the net positive score is 35% and the net
+negative score is 21%.</li>
+<li>This is calculated by dividing the total number of positive or
+negative tweets by the total number of tweets.</li>
+<li>We also assessed the model’s performance on a sample of 200 records
+that were labeled manually. Our analysis shows that the model’s accuracy
+is 76%. The precision and recall scores, which are calculated using
+macro averages, are both around 75%.</li>
 </ul>
 <p><br></p>
 </div>

@@ -14,7 +14,7 @@ output:
 
 <br><br><br>
 
-## **Sentiment Analysis of PetSmart**
+## **Sentiment Analysis of Pet retailer**
 
 ![](https://img.shields.io/badge/Using-RoBERTa-blue)
 <!-- ![](https://img.shields.io/badge/-LASSO-red) -->
@@ -28,7 +28,7 @@ output:
 
 ### 1. Executive Summary
 
-+ Goal : To create an End-to-End Data Product that will help one understand the public sentiment of PetSmart as a brand while understanding what our customers think about other pet retailers. 
++ Goal : To create an End-to-End Data Product that will help one understand the public sentiment of Pet retailer as a brand while understanding what our customers think about other pet retailers. 
 + Objective : To extract people’s opinions from the Tweets collected and classify them into positive, negative, or neutral and identify the trending topics.
 + Data Collection : Scraping using Twitter API and then manually labeled the tweets to evaluate the model performance.
 
@@ -43,19 +43,22 @@ output:
 
 <br>
 
-<br><br>
-
 ### 2. Data Pre-processing
 
-To predict the final price of each home using 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa.
+<br>
 
+<p align="center">
+<img src="images/Data_collection.png" style="width:80%; border:0.0px solid; margin-right: 20px" align="center">
+<img src="images/Data_Preprocessing.png" style="width:80%; border:0.0px solid; margin-right: 20px" align="center">
+</p>
+<br>
 <br>
 
 ### 3. Sentiment Analysis
 
-+ LASSO regressions showed the best performance with a cross validation RMSE-score of 0.1121. Although there is a lot of multicollinearity among the variables, LASSO regression include feature selection; it does not select a substantial number of the available variables in its model, as it is supposed to do.
-+ The XGBoost model also performs very well with a cross validation RMSE of 0.1162.
-+ As those two algorithms are very different, averaging predictions is likely to improve the predictions. As the Lasso cross validated RMSE is better than XGBoost's CV score, I decided to weight the Lasso results double.
++ After analyzing a sample of approximately 6,000 records collected to date, we have observed that the net positive score is 35% and the net negative score is 21%.
++ This is calculated by dividing the total number of positive or negative tweets by the total number of tweets. 
++ We also assessed the model's performance on a sample of 200 records that were labeled manually. Our analysis shows that the model's accuracy is 76%. The precision and recall scores, which are calculated using macro averages, are both around 75%. 	
 
 <br>
 
