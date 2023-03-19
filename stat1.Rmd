@@ -14,19 +14,24 @@ output:
 
 <br><br><br>
 
-## **Predicting House Prices in Iowa**
+## **Sentiment Analysis of PetSmart**
 
-![](https://img.shields.io/badge/Using-Python-blue)
+![](https://img.shields.io/badge/Using-RoBERTa-blue)
 ![](https://img.shields.io/badge/-LASSO-red)
 ![](https://img.shields.io/badge/-XGBoost-success)
 
 <br>
 
-🚨**THIS IS A FICTIONAL PROJECT MEANT AS AN EXAMPLE FOR THE STEPBYSTAT COMMUNITY.**
+🚨**Capstone Project of Master of Science in Business Analytics at Arizona State University.**
 
 <br><br><br>
 
-### 1. Figure
+### 1. Executive Summary
+    + Goal : To create an End-to-End Data Product that will help one understand the public sentiment of PetSmart as a brand while understanding what our customers think about other pet retailers. 
+    + Objective : To extract people’s opinions from the Tweets collected and classify them into positive, negative, or neutral and identify the trending topics.
+    + Data Collection : Scraping using Twitter API and then manually labeled the tweets to evaluate the model performance.
+
+<br>
 
 <p align="center">
 <img src="images/predict_houseprice.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
@@ -40,12 +45,12 @@ output:
 
 <br><br>
 
-### 2. Goal
+### 2. Data Pre-processing
 To predict the final price of each home using 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa.
 
 <br>
 
-### 3. Methodology & Summary
+### 3. Sentiment Analysis
 
   + LASSO regressions showed the best performance with a cross validation RMSE-score of 0.1121. Although there is a lot of multicollinearity among the variables, LASSO regression include feature selection; it does not select a substantial number of the available variables in its model, as it is supposed to do.
   + The XGBoost model also performs very well with a cross validation RMSE of 0.1162.

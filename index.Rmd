@@ -32,7 +32,7 @@ I was in charge of forecasting sales and budgeting operation expense.
 
 + Programming: Python, R
 + Data visualization: Tableau Software, Power BI
-+ Database: SQL, Postgre SQL, MongoDB, Neo4j
++ Database: SQL, Postgre SQL, MySQL
 + Cloud Computing: AWS, GCP (BigQuery), Azure
 
-💼 Please find my resume [HERE](files/Jisoo_Choi_resume.pdf)
+💼 Please find my resume [HERE](files/Jisoo_Choi_Data_Analyst_2023.pdf)
