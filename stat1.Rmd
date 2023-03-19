@@ -17,8 +17,8 @@ output:
 ## **Sentiment Analysis of PetSmart**
 
 ![](https://img.shields.io/badge/Using-RoBERTa-blue)
-![](https://img.shields.io/badge/-LASSO-red)
-![](https://img.shields.io/badge/-XGBoost-success)
+<!-- ![](https://img.shields.io/badge/-LASSO-red) -->
+<!-- ![](https://img.shields.io/badge/-XGBoost-success) -->
 
 <br>
 
@@ -27,34 +27,35 @@ output:
 <br><br><br>
 
 ### 1. Executive Summary
-    + Goal : To create an End-to-End Data Product that will help one understand the public sentiment of PetSmart as a brand while understanding what our customers think about other pet retailers. 
-    + Objective : To extract people’s opinions from the Tweets collected and classify them into positive, negative, or neutral and identify the trending topics.
-    + Data Collection : Scraping using Twitter API and then manually labeled the tweets to evaluate the model performance.
+
++ Goal : To create an End-to-End Data Product that will help one understand the public sentiment of PetSmart as a brand while understanding what our customers think about other pet retailers. 
++ Objective : To extract people’s opinions from the Tweets collected and classify them into positive, negative, or neutral and identify the trending topics.
++ Data Collection : Scraping using Twitter API and then manually labeled the tweets to evaluate the model performance.
 
 <br>
 
-<p align="center">
-<img src="images/predict_houseprice.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
-</p>
-<p align="center">
-[Fig. LASSO regression features by importance]
-</p>
-
+<!-- <p align="center"> -->
+<!-- <img src="images/predict_houseprice.png" style="width:80%; border:0px solid; margin-right: 20px" align="center"> -->
+<!-- </p> -->
+<!-- <p align="center"> -->
+<!-- [Fig. LASSO regression features by importance] -->
+<!-- </p> -->
 
 <br>
 
 <br><br>
 
 ### 2. Data Pre-processing
+
 To predict the final price of each home using 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa.
 
 <br>
 
 ### 3. Sentiment Analysis
 
-  + LASSO regressions showed the best performance with a cross validation RMSE-score of 0.1121. Although there is a lot of multicollinearity among the variables, LASSO regression include feature selection; it does not select a substantial number of the available variables in its model, as it is supposed to do.
-  + The XGBoost model also performs very well with a cross validation RMSE of 0.1162.
-  + As those two algorithms are very different, averaging predictions is likely to improve the predictions. As the Lasso cross validated RMSE is better than XGBoost's CV score, I decided to weight the Lasso results double.
++ LASSO regressions showed the best performance with a cross validation RMSE-score of 0.1121. Although there is a lot of multicollinearity among the variables, LASSO regression include feature selection; it does not select a substantial number of the available variables in its model, as it is supposed to do.
++ The XGBoost model also performs very well with a cross validation RMSE of 0.1162.
++ As those two algorithms are very different, averaging predictions is likely to improve the predictions. As the Lasso cross validated RMSE is better than XGBoost's CV score, I decided to weight the Lasso results double.
 
 <br>
 
