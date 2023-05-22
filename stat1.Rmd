@@ -64,7 +64,7 @@ output:
 
 ### 4. Code
 
-Please click [HERE](https://www.kaggle.com/erikbruin/house-prices-lasso-xgboost-and-a-detailed-eda/report) for the analysis report and code.
+Please click [HERE](https://github.com/Jisoochoi92/Applied_Project) for the analysis report and code.
 
 <br>
 
