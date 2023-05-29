@@ -1,5 +1,5 @@
 ---
-pagetitle: "DB/SQL1"
+pagetitle: "ML2"
 output:
   html_document:
     toc: true
@@ -14,7 +14,7 @@ output:
 
 <br><br><br>
 
-## **Movie Explorer**
+## **Medical cost prediction**
 
 ![](https://img.shields.io/badge/Using-R-blue)
 ![](https://img.shields.io/badge/-SQL-red)
@@ -42,10 +42,9 @@ output:
 
 <br><br><br>
 
-### 3. Live Demo
+### 3. Jupyter Notebook
 
-For more insights, please check my Shiny App Live Demo by clicking [HERE](https://shiny.rstudio.com/gallery/movie-explorer.html).
-
+For more insights, please click [HERE](https://nbviewer.org/github/Jisoochoi92/medicalcost_prediction/blob/main/Medical_cost_Personal_Data_Jisoo_Choi%28final%29.ipynb) for analysis report. 
 
 
 
