@@ -17,7 +17,7 @@ output: html_document
 <br><br><br>
 👋🏽 Hello, my name is Jisoo Choi.
 
-🎓 Soon to be grad with a M.S. in Business Analytics at Arizona State University. (May 2023)
+🎓 Graduated with a M.S. in Business Analytics at Arizona State University. (May 2023)
 
 🌇 Born in Seoul, South Korea, with a passion for developing and applying financial and statistical models to hands-on strategies that will grow business.
 

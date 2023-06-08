@@ -56,19 +56,34 @@ output:
 
 ### 3. Sentiment Analysis
 
-+ After analyzing a sample of approximately 6,000 records collected to date, we have observed that the net positive score is 35% and the net negative score is 21%.
++ After analyzing a sample of approximately 6,000 records collected to date, we have observed that the net positive score is 37% and the net negative score is 25%.
 + This is calculated by dividing the total number of positive or negative tweets by the total number of tweets. 
-+ We also assessed the model's performance on a sample of 200 records that were labeled manually. Our analysis shows that the model's accuracy is 76%. The precision and recall scores, which are calculated using macro averages, are both around 75%. 	
++ We also assessed the model's performance on a sample of 200 records that were labeled manually. Our analysis shows that the model's accuracy is 76%. The precision and recall scores, which are calculated using macro averages, are both around 75% and 78%. 	
 
 <br>
 
-### 4. Code
+### 4. Topic Modeling Insights
+
+<br>
+<p align="center">
+<img src="images/Topic_modeling.png" style="width:80%; border:0.0px solid; margin-right: 20px" align="center">
+<img src="images/Pet_Insights.png" style="width:80%; border:0.0px solid; margin-right: 20px" align="center">
+</p>
+<br>
+
++ Topic #3 Adoptable Puppies : Has one of the highest positive sentiment score which explains that the customers really like adoption drives within PetSmart.
+
++ Topic #5 Aquatic Animals : Has a high negative sentiment score implying a scope for improvement within this segment.
+
++ Topic #6 Hair & nails : Has one of highest negative sentiment score which explains that the customers are dissatisfied with PetSmart’s grooming services and their experience in store.
+
+### 5. Code
 
 Please click [HERE](https://github.com/Jisoochoi92/Applied_Project) for the analysis report and code.
 
 <br>
 
-### 5. Dashboard
+### 6. Dashboard
 
 Please click [HERE](https://app.powerbi.com/groups/me/reports/2592920b-bf33-443e-be6f-84462aa40565/ReportSection) for visualized Power BI dashboard
 
