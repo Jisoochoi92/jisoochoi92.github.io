@@ -19,14 +19,16 @@ output: html_document
 
 🎓 Graduated with a M.S. in Business Analytics at Arizona State University. (May 2023)
 
+🌴 I currently am based in Phoenix, Arizona, which is a beautiful, Top 5 largest city in the US.
+
 🌇 Born in Seoul, South Korea, with a passion for developing and applying financial and statistical models to hands-on strategies that will grow business.
 
-📚 I worked as Financial Planning Analyst at Merck Korea for past 5 years.
+📚 I worked as Financial Planning Analyst at Merck Sharp & Dohme Korea for past 5 years.
 I was in charge of forecasting sales and budgeting operation expense.
 
-💻 I would like to continue my career as business analyst or data analyst after graduation.
+🚙 After graduation, I started working as Sr. Accountant, Financial Reporting at Carvana.
 
-🏔 In my free time, you can find me skiing, doing yoga and playing badminton.
+🧘 In my free time, you can find me skiing, travelling, cooking doing yoga and playing badminton.
 
 💪 Specialties in analyzing sales trend, expense optimization, data visualization, strategic financial reporting
 

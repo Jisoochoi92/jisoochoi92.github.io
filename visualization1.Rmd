@@ -16,7 +16,8 @@ output:
 
 ## **Deep Learning Project : Form Coach (Computer vision)**
 
-![](https://img.shields.io/badge/Using-Tableau%20Software-red)
+![](https://img.shields.io/badge/Using-ResNet50%20-red)
+![](https://img.shields.io/badge/InceptionV3%20-success)
 
 <br>
 
@@ -49,6 +50,10 @@ output:
 
 For more insights, please check demo website by clicking [HERE](https://public.tableau.com/app/profile/davidhoskins/viz/SquidGameWARNINGMAJORSPOILERS/SquidGame).
 
-
+<p align="center">
+<img src="images/Demo.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+</p>
+<p align="center">
+</p>
 
 

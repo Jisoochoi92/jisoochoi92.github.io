@@ -24,6 +24,9 @@ output:
 
 🚨**Capstone Project of Master of Science in Business Analytics at Arizona State University.**
 
+<br>
+<p align="center">
+<img src="images/Team2.jpg" style="width:50%; border:0.0px solid; margin-right: 20px" align="center">
 <br><br><br>
 
 ### 1. Executive Summary
