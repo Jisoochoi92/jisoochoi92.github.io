@@ -71,3 +71,4 @@ Please click [HERE](https://github.com/Jisoochoi92/Applied_Project) for the anal
 ### 5. Dashboard
 
 Please click [HERE](https://app.powerbi.com/groups/me/reports/2592920b-bf33-443e-be6f-84462aa40565/ReportSection) for visualized Power BI dashboard
+

@@ -17,11 +17,11 @@ navbar:
       menu: 
       - text: "Medical Cost prediction"
         href: dbsql1.html
-    - text: "Visualization"
+    - text: "Computer Vision"
       menu: 
-      - text: "Sales Trend Monitoring"
+      - text: "Deep Learning project"
         href: visualization1.html
-      - text: "Issue Tracker"
+      - text: "Tableau project"
         href: visualization2.html
   right:
     - icon: fas fa-envelope
