@@ -44,7 +44,7 @@ output:
 
 ### 3. Jupyter Notebook
 
-For more insights, please click [HERE](https://nbviewer.org/github/Jisoochoi92/medicalcost_prediction/blob/main/Medical_cost_Personal_Data_Jisoo_Choi%28final%29.ipynb) for analysis report. 
+For more insights, please click [HERE](https://nbviewer.org/github/Jisoochoi92/medicalcost_prediction/blob/main/Medical_cost_Personal_Data_Jisoo_Choi.ipynb) for analysis report. 
 
 
 
