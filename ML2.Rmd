@@ -16,9 +16,9 @@ output:
 
 ## **Medical cost prediction**
 
-![](https://img.shields.io/badge/Using-R-blue)
-![](https://img.shields.io/badge/-SQL-red)
-![](https://img.shields.io/badge/-Shiny%20App-success)
+![](https://img.shields.io/badge/Using-Python-blue)
+<!--[](https://img.shields.io/badge/-SQL-red)-->
+<!--[](https://img.shields.io/badge/-Shiny%20App-success)-->
 
 <br>
 
@@ -26,25 +26,26 @@ output:
 
 <br><br><br>
 
-### 1. Screenshot of Dashboard
+### 1. Objectives
 
-<p align="center">
-<img src="images/movie_explorer.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
-</p>
-<p align="center">
-</p>
++ In healthcare industry, it is always challenging to predict insurance cost accurately because of uncertainty and complexity of insurance plans.
 
-<br><br><br>
++ The objective of this project is to predict the insurance charges based on the given demographic and health information of individuals.
+
++ This project aims to investigate the relationship between various patient characteristics and medical costs using multiple linear regression with forward/backward feature selection, as well as incorporating regularization methods such as Ridge regression, LASSO regression, and Elastic Net (with a ratio of 0.5). Additionally, a neural network approach was employed to explore the predict the outcome variable. Model performance was evaluated using R-squared, Root-mean-squared error (RMSE), and mean absolute error (MAE).
 
 ### 2. Summary
 
-+ blah blah blah
-
++ Model Performance
+<br>
+<p align="center">
+<img src="images/results.png" style="width:50%; border:0.0px solid; margin-right: 20px" align="center">
+</p>
 <br><br><br>
 
 ### 3. Jupyter Notebook
 
-For more insights, please click [HERE](https://nbviewer.org/github/Jisoochoi92/medicalcost_prediction/blob/main/Medical_cost_Personal_Data_Jisoo_Choi.ipynb) for analysis report. 
+For more insights, please click [HERE](https://nbviewer.org/github/Jisoochoi92/medicalcost_prediction/blob/main/Medical_cost_Personal_Data_Jisoo_Choi.ipynb) for python codes. 
 
 
 

@@ -90,3 +90,7 @@ Please click [HERE](https://github.com/Jisoochoi92/Applied_Project) for the anal
 
 Please click [HERE](https://app.powerbi.com/groups/me/reports/2592920b-bf33-443e-be6f-84462aa40565/ReportSection) for visualized Power BI dashboard
 
+<br>
+<p align="center">
+<img src="images/powerbi.jpg" style="width:80%; border:0.0px solid; margin-right: 20px" align="center">
+<br><br><br>
