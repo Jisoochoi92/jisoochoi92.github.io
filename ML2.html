@@ -11,7 +11,7 @@
 
 
 
-<title>Index</title>
+<title>ML2</title>
 
 <script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -29,6 +29,9 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -222,6 +225,75 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
+
+</style>
+
+
 
 </head>
 
@@ -229,6 +301,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -325,37 +407,38 @@ $(document).ready(function () {
 
 <p><link rel="stylesheet" href="styles.css" type="text/css">
 <link rel="stylesheet" href="site_libs/academicons-1.9.1/css/academicons.min.css"/></p>
+<p><br><br><br></p>
+<div id="medical-cost-prediction" class="section level2">
+<h2><strong>Medical cost prediction</strong></h2>
+<p><img src="https://img.shields.io/badge/Using-R-blue" /> <img
+src="https://img.shields.io/badge/-SQL-red" /> <img
+src="https://img.shields.io/badge/-Shiny%20App-success" /></p>
 <p><br></p>
+<!--🚨**THIS IS A FICTIONAL PROJECT MEANT AS AN EXAMPLE FOR THE STEPBYSTAT COMMUNITY.** -->
+<p><br><br><br></p>
+<div id="screenshot-of-dashboard" class="section level3">
+<h3>1. Screenshot of Dashboard</h3>
 <p align="center">
-<img src="images/profile_pic.jpg" style="width:35%; border:0.0px solid; margin-right: 20px" align="center">
+<img src="images/movie_explorer.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
 </p>
-<p><br></p>
-<!-- 🚨*THIS IS A FICTIONAL PROFILE MEANT AS AN EXAMPLE FOR THE STEPBYSTAT COMMUNITY.*  -->
-<p><br><br><br> 👋🏽 Hello, my name is Jisoo Choi.</p>
-<p>🎓 Graduated with a M.S. in Business Analytics at Arizona State
-University. (May 2023)</p>
-<p>🌴 I currently am based in Phoenix, Arizona, which is a beautiful,
-Top 5 largest city in the US.</p>
-<p>🌇 Born in Seoul, South Korea, with a passion for developing and
-applying financial and statistical models to hands-on strategies that
-will grow business.</p>
-<p>📚 I worked as Financial Planning Analyst at Merck Sharp &amp; Dohme
-Korea for past 5 years. I was in charge of forecasting sales and
-budgeting operation expense.</p>
-<p>🚙 After graduation, I started working as Sr. Accountant, Financial
-Reporting at Carvana.</p>
-<p>🧘 In my free time, you can find me skiing, travelling, cooking doing
-yoga and playing badminton.</p>
-<p>💪 Specialties in analyzing sales trend, expense optimization, data
-visualization, strategic financial reporting</p>
+<p align="center">
+</p>
+<p><br><br><br></p>
+</div>
+<div id="summary" class="section level3">
+<h3>2. Summary</h3>
 <ul>
-<li>Programming: Python, R</li>
-<li>Data visualization: Tableau Software, Power BI</li>
-<li>Database: SQL, Postgre SQL, MySQL</li>
-<li>Cloud Computing: AWS, GCP (BigQuery), Azure</li>
+<li>blah blah blah</li>
 </ul>
-<p>💼 Please find my resume <a
-href="files/Jisoo_Choi_Data_Analyst_2023.pdf">HERE</a></p>
+<p><br><br><br></p>
+</div>
+<div id="jupyter-notebook" class="section level3">
+<h3>3. Jupyter Notebook</h3>
+<p>For more insights, please click <a
+href="https://nbviewer.org/github/Jisoochoi92/medicalcost_prediction/blob/main/Medical_cost_Personal_Data_Jisoo_Choi.ipynb">HERE</a>
+for analysis report.</p>
+</div>
+</div>
 
 
 <br><br>
@@ -364,6 +447,8 @@ href="files/Jisoo_Choi_Data_Analyst_2023.pdf">HERE</a></p>
 </footer>
 
 
+</div>
+</div>
 
 </div>
 
@@ -396,6 +481,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3,h4,h5",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = false;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

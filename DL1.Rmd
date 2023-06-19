@@ -1,0 +1,59 @@
+---
+pagetitle: "Data Visualization"
+output:
+  html_document:
+    toc: true
+    toc_depth: 5
+    toc_float:
+     collapsed: false
+     smooth_scroll: false
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="site_libs/academicons-1.9.1/css/academicons.min.css"/>
+
+<br><br><br>
+
+## **Deep Learning Project : Form Coach (Computer vision)**
+
+![](https://img.shields.io/badge/Using-ResNet50%20-red)
+![](https://img.shields.io/badge/InceptionV3%20-success)
+
+<br>
+
+🚨**Deep Learning Final Project of Master of Science in Business Analytics at Arizona State University.**
+
+<br><br><br>
+
+### 1. End-to-End Solution
+
+<p align="center">
+<img src="images/Form_Coach.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+</p>
+<p align="center">
+</p>
+
+<br><br><br>
+
+### 2. Why Computer Vision?
+
++ Existing methods (manually recording & reviewing videos) are time-consuming, rely heavily on the expertise of yoga instructor
++ CV enables an automated, real-time analysis
++ CV can detect subtle differences in pose for advanced students
+
++ Yoga Classification : ResNet50 was used
++ Workout Classification : InceptionV3 was used
+
+<br><br><br>
+
+### 3. Proof-of-concept Demo
+
+For more insights, please check demo website by clicking [HERE](https://public.tableau.com/app/profile/davidhoskins/viz/SquidGameWARNINGMAJORSPOILERS/SquidGame).
+
+<p align="center">
+<img src="images/Demo.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+</p>
+<p align="center">
+</p>
+
+

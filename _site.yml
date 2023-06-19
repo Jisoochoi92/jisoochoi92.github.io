@@ -7,22 +7,26 @@ output_dir: "."
 navbar:
   title: "Jisoo Choi"
   left:
-    - text: "Tutorials"
-      href: tutorials.html
-    - text: "ML1"
+    #- text: "Tutorials"
+    # href: tutorials.html
+    - text: "ML"
       menu: 
       - text: "Sentiment Analysis of Pet retailer"
-        href: stat1.html
-    - text: "ML2"
-      menu: 
+        href: ML1.html
       - text: "Medical Cost prediction"
-        href: dbsql1.html
-    - text: "Computer Vision"
+        href: ML2.html
+    - text: "DL"
       menu: 
-      - text: "Deep Learning project"
+      - text: "Computer Vision : Workout posture recommendation"
+        href: DL1.html
+    - text: "Dashboard"
+      menu:
+      - text: "Tableau project1"
         href: visualization1.html
-      - text: "Tableau project"
+      - text: "Tableau project2"
         href: visualization2.html
+      - text: "Tableau project3"
+        href: visualization3.html
   right:
     - icon: fas fa-envelope
       href: contact.html
